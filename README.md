@@ -12,6 +12,6 @@ To start developing,
 
 3. build package with `npm run build`
 
-## Licence
+## License
 
-[GPLv3](./licence.txt)
+[GPLv3](./LICENSE)
